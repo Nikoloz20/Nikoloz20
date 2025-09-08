@@ -22,10 +22,10 @@ Passionate about open-source, I enjoy sharing my projects and collaborating with
 
 
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikoloz911&show_icons=true&theme=radical)    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;    ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikoloz911&show_icons=true&theme=radical&layout=compact) 
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikoloz20&show_icons=true&theme=radical)    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;    ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikoloz20&show_icons=true&theme=radical&layout=compact) 
 
-<!-- [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nikoloz911&theme=light)](https://github.com/Nikoloz911)
+<!-- [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nikoloz20&theme=light)](https://github.com/Nikoloz20)
 -->
 
-- 📫 You can reach me at: nikalobjanidze014@gmail.com
+- 📫 You can reach me at: nikoloz0125@gmail.com
 
