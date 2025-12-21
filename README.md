@@ -5,7 +5,7 @@
 #### :information_source: About me
 
 
-I’m Nikoloz Lobzhanidze, a .NET Developer from [Georgia](https://en.wikipedia.org/wiki/Georgia_(country)) 🇬🇪, specializing in building efficient, scalable web applications. 
+I’m Nikoloz Lobzhanidze, a Software Engineer from [Georgia](https://en.wikipedia.org/wiki/Georgia_(country)) 🇬🇪, specializing in building efficient, scalable web applications. 
 
 Highly skilled in backend development with C# and ASP.NET.
 
